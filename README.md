@@ -1,4 +1,5 @@
-# 👋 Hi there, I'm Dewana !
+# 👋 Hi, I'm Dewana !
+#### I am a student who needs to study
 
 ### 👨🏻‍💻 About Me :
 - 🌱 I’m currently learning Python, MikroTik, and Web Developer</br>
@@ -11,6 +12,9 @@
 <p>
     <img src="https://img.shields.io/badge/-Python-fff?&logo=python">
     <img src="https://img.shields.io/badge/-TCP/IP-fff?&logo=Cisco">
+    <img src="https://img.shields.io/badge/-HTML-fff?&logo=HTML5">
+    <img src="https://img.shields.io/badge/-CSS-fff?&logo=CSS3">
+    <img src="https://img.shields.io/badge/-GitHub-fff?&logo=github">
 </p>
 
 ### ⚙️ Tools and Stats :
