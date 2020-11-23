@@ -1,8 +1,8 @@
 # Hi there 👋, I'm Dewana !
 <p>
-    <a href="https://facebook.com/dewana.kael" target="blank"><img src="https://img.shields.io/badge/dewana.kael-grey?&logo=facebook"></a>
-    <a href="https://www.instagram.com/dewana_kl/" target="blank"><img src="https://img.shields.io/badge/@dewana_kl-grey?&logo=instagram"></a>
-    <a href="https://twitter.com/dewana_kl" target="blank"><img src="https://img.shields.io/badge/dewana_kl-grey?&logo=twitter"></a>
+    <a href="https://facebook.com/dewana.kael" target="blank"><img src="https://img.shields.io/badge/dewana.kael-Facebook-3b5998?&logo=facebook"></a>
+    <a href="https://www.instagram.com/dewana_kl/" target="blank"><img src="https://img.shields.io/badge/@dewana__kl-Instagram-3f729b?&logo=instagram"></a>
+    <a href="https://twitter.com/dewana_kl" target="blank"><img src="https://img.shields.io/badge/dewana__kl-Twitter-00acee?&logo=twitter"></a>
 </p>
 
 ### About Me :
@@ -14,9 +14,9 @@
 
 ### Tools and Stats :
 <p>
-    <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
-    <img src="https://gpvc.arturio.dev/dewanakl" />
+    <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue">
+    <img src="https://gpvc.arturio.dev/dewanakl">
 </p>
 <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=dewanakl" />
+    <img src="https://github-readme-stats.vercel.app/api?username=dewanakl">
 </p>
