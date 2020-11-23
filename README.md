@@ -24,7 +24,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=dewanakl">
 </p>
 
-### 🤝🏻 Connect with Me :
+### 🤝 Connect with Me :
 <p>
     <a href="https://facebook.com/dewana.kael" target="blank"><img src="https://img.shields.io/badge/dewana.kael-Facebook-3b5998?&logo=facebook&logoColor=white"></a>
     <a href="https://www.instagram.com/dewana_kl/" target="blank"><img src="https://img.shields.io/badge/@dewana__kl-Instagram-e1306c?&logo=instagram&logoColor=white"></a>
