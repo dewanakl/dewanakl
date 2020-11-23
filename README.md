@@ -2,11 +2,10 @@
 #### I am a student who needs to study
 
 ### 👨🏻‍💻 About Me :
-- 🌱 I’m currently learning Python, MikroTik, and Web Developer</br>
-- 💬 Ask me about MikroTik</br>
-- 📫 How to reach me ~ <a href="mailto:dewanakretarta29@gmail.com">Email me!</a></br>
-- 😄 Pronouns ~ Wann :)</br>
-- ⚡ Fun fact ~ Let's get started</br>
+- 🌱 I'm learning about technology
+- 🎓 I studied computer science at the University of Jember
+- 😄 Pronouns ~ Wann :)
+- ⚡ Fun fact ~ Let's get started
 
 ### 🛠 Learn :
 <p>
