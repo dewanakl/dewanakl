@@ -1,12 +1,5 @@
 # 👋 Hi there, I'm Dewana !
 
-### 🤝🏻
-<p>
-    <a href="https://facebook.com/dewana.kael" target="blank"><img src="https://img.shields.io/badge/dewana.kael-Facebook-3b5998?&logo=facebook&logoColor=white"></a>
-    <a href="https://www.instagram.com/dewana_kl/" target="blank"><img src="https://img.shields.io/badge/@dewana__kl-Instagram-e1306c?&logo=instagram&logoColor=white"></a>
-    <a href="https://twitter.com/dewana_kl" target="blank"><img src="https://img.shields.io/badge/dewana__kl-Twitter-00acee?&logo=twitter&logoColor=white"></a>
-</p>
-
 ### 👨🏻‍💻 About Me :
 - 🌱 I’m currently learning Python, MikroTik, and Web Developer</br>
 - 💬 Ask me about MikroTik</br>
@@ -14,7 +7,7 @@
 - 😄 Pronouns ~ Wann :)</br>
 - ⚡ Fun fact ~ Let's get started</br>
 
-### 🛠
+### 🛠 Learn :
 <p>
     <img src="https://img.shields.io/badge/-Python-fff?&logo=python">
     <img src="https://img.shields.io/badge/-TCP/IP-fff?&logo=Cisco">
@@ -29,4 +22,11 @@
 </p>
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=dewanakl">
+</p>
+
+### 🤝🏻 Connect with Me :
+<p>
+    <a href="https://facebook.com/dewana.kael" target="blank"><img src="https://img.shields.io/badge/dewana.kael-Facebook-3b5998?&logo=facebook&logoColor=white"></a>
+    <a href="https://www.instagram.com/dewana_kl/" target="blank"><img src="https://img.shields.io/badge/@dewana__kl-Instagram-e1306c?&logo=instagram&logoColor=white"></a>
+    <a href="https://twitter.com/dewana_kl" target="blank"><img src="https://img.shields.io/badge/dewana__kl-Twitter-00acee?&logo=twitter&logoColor=white"></a>
 </p>
