@@ -1,10 +1,12 @@
 # Hi there 👋, I'm Dewana !
 Aku blaaa...
+
 ### Tools:
 <p>
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
     <img src="https://gpvc.arturio.dev/bagusfe" />
 </p>
+
 ### Stats:
 <details>
  <summary><strong>Here are some ideas to get you started :</strong></summary>
@@ -15,8 +17,9 @@ Aku blaaa...
 - ⚡ Fun fact : Let's get started </br>
 </details>
 <p>
-[![Dewanakl github stats](https://github-readme-stats.vercel.app/api?username=dewanakl)]
+    [![Dewanakl github stats](https://github-readme-stats.vercel.app/api?username=dewanakl)]
 </p>
+
 ### Let's connect!
 <p>
     <a href="https://https://twitter.com/dewanakl" target="blank"><img src="https://img.shields.io/badge/@bagusfedotid-30302f?style=flat&logo=twitter" /></a>
