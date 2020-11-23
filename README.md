@@ -1,7 +1,8 @@
 # Hi there 👋, I'm Dewana !
 <p>
-    <a href="https://facebook.com/dewana.kael" target="blank"><img src="https://img.shields.io/badge/@dewanakl-30302f?style=flat&logo=twitter" /></a>
-    <a href="https://twitter.com/dewana_kl" target="blank"><img src="https://img.shields.io/badge/@dewanakl-30302f?style=flat&logo=twitter" /></a>
+    <a href="https://facebook.com/dewana.kael" target="blank"><img src="https://img.shields.io/badge/dewana.kael-30302f?style=flat&logo=facebook"></a>
+    <a href="https://www.instagram.com/dewana_kl/" target="blank"><img src="https://img.shields.io/badge/@dewana_kl-30302f?style=flat&logo=instagram"></a>
+    <a href="https://twitter.com/dewana_kl" target="blank"><img src="https://img.shields.io/badge/dewana_kl-30302f?style=flat&logo=twitter"></a>
 </p>
 
 ### About Me :
