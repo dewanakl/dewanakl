@@ -12,6 +12,7 @@
     <img src="https://img.shields.io/badge/-TCP/IP-fff?&logo=Cisco">
     <img src="https://img.shields.io/badge/-HTML-fff?&logo=HTML5">
     <img src="https://img.shields.io/badge/-CSS-fff?&logo=CSS3&logoColor=264de4">
+    <img src="https://img.shields.io/badge/-HTML-fff?&logo=PHP">
     <img src="https://img.shields.io/badge/-GitHub-fff?&logo=github&logoColor=000000">
 </p>
 
