@@ -4,7 +4,6 @@
 ### 👨🏻‍💻 About Me :
 - 🌱 I'm learning about technology
 - 🎓 I studied computer science at the University of Jember
-- 😄 Pronouns ~ Wann :)
 - ⚡ Fun fact ~ Let's get started
 
 ### 🛠 Learn :
