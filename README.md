@@ -10,9 +10,10 @@
 <p>
     <img src="https://img.shields.io/badge/-Python-fff?&logo=python">
     <img src="https://img.shields.io/badge/-TCP/IP-fff?&logo=Cisco">
-    <img src="https://img.shields.io/badge/-HTML-fff?&logo=HTML5">
-    <img src="https://img.shields.io/badge/-CSS-fff?&logo=CSS3&logoColor=264de4">
-    <img src="https://img.shields.io/badge/-HTML-fff?&logo=PHP">
+    <img src="https://img.shields.io/badge/-HTML5-fff?&logo=HTML5">
+    <img src="https://img.shields.io/badge/-CSS3-fff?&logo=CSS3&logoColor=264de4">
+    <img src="https://img.shields.io/badge/-PHP-fff?&logo=PHP">
+    <img src="https://img.shields.io/badge/-PostgreSQL-fff?&logo=postgresql">
     <img src="https://img.shields.io/badge/-GitHub-fff?&logo=github&logoColor=000000">
 </p>
 
