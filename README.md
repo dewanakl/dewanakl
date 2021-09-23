@@ -8,7 +8,7 @@
 
 ### 🛠 Learn :
 <p>
-    <img src="https://img.shields.io/badge/-Java-fff?&logo=java">
+    <img src="https://img.shields.io/badge/-Java-fff?&logo=java&logoColor=cc7000">
     <img src="https://img.shields.io/badge/-Python-fff?&logo=python">
     <img src="https://img.shields.io/badge/-TCP/IP-fff?&logo=Cisco">
     <img src="https://img.shields.io/badge/-HTML5-fff?&logo=HTML5">
