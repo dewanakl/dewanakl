@@ -34,4 +34,5 @@
 <p>
     <a href="https://dikit.my.id/fb-aku" target='_blank'><img src="https://img.shields.io/badge/dewana.kael-Facebook-3b5998?&logo=facebook&logoColor=white"></a>
     <a href="https://dikit.my.id/ig-aku" target='_blank'><img src="https://img.shields.io/badge/@dewana__kl-Instagram-e1306c?&logo=instagram&logoColor=white"></a>
+    <a href="https://dikit.my.id/linkedin-aku" target='_blank'><img src="https://img.shields.io/badge/dewana-Linkedin-4287f5?&logo=linkedin&logoColor=white"></a>
 </p>
