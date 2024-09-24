@@ -6,11 +6,11 @@
 - 🌱 I'm learning about technology
 - 🎓 I studied computer science
 - ⚡ Fun fact ~ Let's get started
-- 🇮🇩 From Central Java, Indonesian
+- 🇮🇩 Central Java, Indonesia
 
 ### Connect with Me:
-[![Instagram @dewana_kl](https://img.shields.io/badge/Instagram-E4405F?&logo=instagram&logoColor=white&style=flat-square)](https://dikit.biz.id/ig-aku)
-[![LinkedIn Dewana](https://img.shields.io/badge/Linkedin-0A66C2?&logo=linkedin&logoColor=white&style=flat-square)](https://dikit.biz.id/linkedin-aku)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?&logo=instagram&logoColor=white&style=flat-square)](https://dikit.biz.id/ig-aku)
+[![Linkedin](https://img.shields.io/badge/Linkedin-0A66C2?&logo=linkedin&logoColor=white&style=flat-square)](https://dikit.biz.id/linkedin-aku)
 
 ### Learn :
 ![Golang](https://img.shields.io/badge/-Golang-45b8d8?style=flat-square&logo=go&logoColor=white)
@@ -31,7 +31,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ### Stats:
-
 ![Badge Dewana](https://badge.dikit.biz.id/dewanakl?style=flat-square&color=brightgreen)
 
 ![GitHub Stats Dewana](https://github-readme-stats.vercel.app/api?username=dewanakl&show_icons=true&theme=radical)
