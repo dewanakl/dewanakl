@@ -9,8 +9,8 @@
 - 🇮🇩 Central Java, Indonesia
 
 ### Connect with Me:
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?&logo=instagram&logoColor=white&style=flat-square)](https://dikit.biz.id/ig-aku)
-[![Linkedin](https://img.shields.io/badge/Linkedin-0A66C2?&logo=linkedin&logoColor=white&style=flat-square)](https://dikit.biz.id/linkedin-aku)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?&logo=instagram&logoColor=white&style=flat-square)](https://dikit.my.id/instagram-aku)
+[![Linkedin](https://img.shields.io/badge/Linkedin-0A66C2?&logo=linkedin&logoColor=white&style=flat-square)](https://dikit.my.id/linkedin-aku)
 
 ### Learn :
 ![Golang](https://img.shields.io/badge/-Golang-45b8d8?style=flat-square&logo=go&logoColor=white)
