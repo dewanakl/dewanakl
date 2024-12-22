@@ -1,12 +1,30 @@
 # 👋 Hi, I'm Dewana !
 
-### I am a student who needs to study
+```go
+package main
 
-### About Me :
-- 🌱 I'm learning about technology
-- 🎓 I studied computer science
-- ⚡ Fun fact ~ Let's get started
-- 🇮🇩 Central Java, Indonesia
+import "fmt"
+
+type AboutMe struct {
+	Icon string
+	Text string
+}
+
+func main() {
+	fmt.Println("I am a student who needs to study.")
+
+	aboutMeList := []AboutMe{
+		{"🌱", "I'm learning about technology"},
+		{"🎓", "I studied computer science"},
+		{"⚡", "Fun fact ~ Let's get started"},
+		{"🇮🇩", "Central Java, Indonesia"},
+	}
+
+	for _, v := range aboutMeList {
+		fmt.Println(fmt.Sprintf("%s %s", v.Icon, v.Text))
+	}
+}
+```
 
 ### Connect with Me:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?&logo=instagram&logoColor=white&style=flat-square)](https://dikit.my.id/instagram-aku)
