@@ -43,6 +43,7 @@ func main() {
 ![Redis](https://img.shields.io/badge/-Redis-db5030?style=flat-square&logo=redis&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005e6c?style=flat-square&logo=elasticsearch&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ed?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)
 ![GitLab](https://img.shields.io/badge/-GitLab-fca121?style=flat-square&logo=gitlab&logoColor=white)
